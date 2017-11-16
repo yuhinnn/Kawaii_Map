@@ -8,7 +8,7 @@
 <body>
 
 <div class="relative">
-  <img class="lp"src="lp2.jpg" alt="">
+  <img class="lp"src="lp3.jpg" alt="">
 </div>
 
 </body>
