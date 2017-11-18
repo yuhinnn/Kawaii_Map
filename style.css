@@ -24,15 +24,69 @@ body{
 
 .btn-top{
   position:absolute;
-  margin-top:50%;
-  width:100%;
-/*
-  bottom:93%;
-  width:100%;
-*/
+  margin-top:215%;
+  margin-left:5%;
   z-index:2;
 }
 
+.btn-top p{
+  font-size:51px;
+}
+
+.btn-top2 p{
+  font-size:51px;
+}
+
+.btn-top3 p{
+  font-size:51px;
+}
+
+.btn-top4 p{
+  font-size:51px;
+}
+
+.btn-top5 p{
+  font-size:31px;
+}
+
+.btn-top6 p{
+  font-size:35px;
+}
+
+.btn-top2{
+  position:absolute;
+  margin-top:348%;
+  margin-left:7%;
+  z-index:2;
+}
+
+.btn-top3{
+  position:absolute;
+  margin-top:399%;
+  margin-left:6%;
+  z-index:2;
+}
+
+.btn-top4{
+  position:absolute;
+  margin-top:449%;
+  margin-left:7%;
+  z-index:2;
+}
+
+.btn-top5{
+  position:absolute;
+  margin-top:560%;
+  margin-left:3%;
+  z-index:2;
+}
+
+.btn-top6{
+  position:absolute;
+  margin-top:660%;
+  margin-left:3%;
+  z-index:2;
+}
 .btn-bottom{
   position:absolute;
   margin-top:1029%;
