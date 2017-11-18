@@ -8,9 +8,9 @@
 <body>
 
 <div class="relative">
-  <img class="lp"src="LP7.jpg" alt="">
-  <div class="btn-top">  <p>アイドルを主軸とした芸能プロダクシ<br>ョンならでは！
-現役アイドルも撮影会に参加します！</p> </div>
+  <img class="lp"src="q.jpg" alt="">
+
+  <div class="btn-top">  <p>SNSに写真はアップされたりしますか？</p> </div>
 </div>
 
   <div class="btn-top2">  <p>モデルさんの頑張りは常に評価いた<br>します！最大２０％歩合報酬アップも！？※当社規定あり</p> </div>
@@ -27,10 +27,6 @@
 
   <div class="btn-top6">  <p>2017オモロタスProduction All Rights Reserved </p> </div>
 </div>
-
- <a href=""> <img class="btn1"src="oubo.png" alt=""></a>
- <a href=""><img class="btn2"src="question.png" alt=""></a>
- <a href="mailto:omlts.abekobe@gmail.com"><img class="btn3"src="toiawase.png" alt=""></a>
 
 </body>
 </html>
