@@ -25,13 +25,18 @@
   <div class="btn-top_q5">  <p>露出度の高い衣装の撮影はありますか？</p> </div>
 </div>
 
-  <div class="btn-top_q6">  <p>企画によってはございます。ですが予め<br>水着、下着での撮影がNGかOKかお申し<br>付けください。参加NGでも大丈夫です。</p> </div>
+  <div class="btn-top_q6">  <p>企画によってはございます。ですが予<br>め水着、下着での撮影がNGかOKかお<br>申し付けください。参加NGでも大丈夫<br>です。</p> </div>
 </div>
 
   <div class="btn-top_q7">  <p>モデルの経験や、撮影会経験がない<br>のですが・・・</p> </div>
 </div>
 
   <div class="btn-top_q8">  <p>問題ございません！まずは笑顔で参<br>加していただければ大丈夫です！</p> </div>
+</div>
+
+ <a href=""> <img class="btn1_q"src="oubo.png" alt=""></a>
+ <a href=""><img class="top"src="top.png" alt=""></a>
+  <div class="btn-top6_q">  <p>2017オモロタスProduction All Rights Reserved </p> </div>
 </div>
 
 </body>

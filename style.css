@@ -30,6 +30,29 @@ body{
   width:80%;
 }
 
+.btn1_q{
+  position:absolute;
+  margin-top:445%;
+  margin-left:9%;
+  z-index:2;
+  width:80%;
+}
+
+.top{
+  position:absolute;
+  margin-top:410%;
+  margin-left:9%;
+  z-index:2;
+  width:80%;
+}
+
+.pochi{
+  position:absolute;
+  margin-top:525%;
+  margin-left:9%;
+  z-index:2;
+  width:80%;
+}
 .btn2{
   position:absolute;
   margin-top:590%;
@@ -90,6 +113,10 @@ body{
   color:white;
 }
 
+.btn-top6_q p{
+  font-size:35px;
+  color:white;
+}
 .btn-top_q3 p{
   font-size:38px;
   font-weight:bold;
@@ -204,6 +231,14 @@ body{
   margin-left:12%;
   z-index:2;
 }
+
+.btn-top6_q{
+  position:absolute;
+  margin-top:500%;
+  margin-left:10%;
+  z-index:2;
+}
+
 .btn-bottom{
   position:absolute;
   margin-top:1029%;
